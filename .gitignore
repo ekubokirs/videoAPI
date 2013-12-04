@@ -34,5 +34,5 @@ rerun.txt
 pickle-email-*.html
 .project
 config/initializers/secret_token.rb
-database.yml
+config/database.yml
 

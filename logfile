@@ -1,0 +1,15 @@
+LOG:  database system was shut down at 2013-12-04 14:26:08 PST
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+FATAL:  database "videoapi_development" does not exist
+FATAL:  database "videoapi_development" does not exist
+FATAL:  lock file "postmaster.pid" already exists
+HINT:  Is another postmaster (PID 84892) running in data directory "/usr/local/var/postgres"?
+FATAL:  database "videoapi_development" does not exist
+FATAL:  database "videoapi_development" does not exist
+FATAL:  database "videoapi_development" does not exist
+FATAL:  database "videoapi_development" does not exist
+FATAL:  database "videoapi_development" does not exist
+FATAL:  database "videoapi_development" does not exist
+FATAL:  database "videoapi_development" does not exist
+FATAL:  database "videoapi_development" does not exist
